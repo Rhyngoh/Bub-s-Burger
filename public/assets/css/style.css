@@ -9,11 +9,14 @@ li {
 }
 
 .create-update-form {
-  background: aqua;
+  /*background: aqua;*/
   margin: 5px;
   padding: 5px;
 }
 
 .form-group {
   margin-bottom: 5px;
+}
+p{
+	display: inline;
 }
